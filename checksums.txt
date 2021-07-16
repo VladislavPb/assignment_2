@@ -1,0 +1,6 @@
+first_file.txt md5 8f730caaa0ba0c827deb5179a0d11f82
+first_file.txt md5 784c44b05a3cac763434db47a24baedd9e69f791
+first_file.txt sha256 090438e709659d524d519152ccec28d2ade7a557d0c43979998e99f18cbf05b8
+second_file.txt md5 8f730caaa0ba0c827deb5179a0d11f84
+something.bin md5 1a36591bceec49c832079e270d7e8b73
+something.bin sha256 1a36591bceec49c832079e270d7e8b73
